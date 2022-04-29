@@ -1,2 +1,2 @@
-# desafio-git-github-dio
-Desafio da DIO sobre como criar e gerenciar seus repositórios no Git e no GitHub.
+# Sites de Animes.
+Uma lista de Sites de Animes gratuitos para quem não tem condições de assinar uma plataforma oficial paga.
